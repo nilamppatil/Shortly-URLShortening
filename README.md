@@ -48,7 +48,7 @@ Users should be able to:
   (Live Site URL is is part of group project where ME Nilam and Brian are working tohether in BootCamp project)
 -GitHub Repo : https://github.com/nilamppatil/Shortly-URLShortening
 
-## My process
+
 
 ### Built with
 -React
@@ -66,15 +66,3 @@ Users should be able to:
 
 
 
-### Continued development
-
-
-### Useful resources
-- Frontend Mentor 
-
-## Author
-
-
-
-
-## Acknowledgments
