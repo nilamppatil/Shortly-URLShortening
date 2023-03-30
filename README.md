@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# Shortly-URLShortening
+>>>>>>> fc0700354cc0259e34d36169768efc9734d65a4b
 # Shortly URL shortening API
 
 
