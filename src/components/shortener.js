@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react"
 import bgMobile from "../images/bg-shorten-mobile.svg"
 import bgDesktop from "../images/bg-shorten-desktop.svg"
+// https://api.shrtco.de/v2/shorten?url
 
 const getLocalStorage = () => {
   let links = localStorage.getItem("links")
@@ -21,10 +22,10 @@ export default function Shortener() {
     e.preventDefault()
 
     if (!text) {
-      alert("Input is empty")
-    } else {
+      alert("Input is Empty")
+    } else { // CHECK FOR WEATHER ITS A VALID LINK
       const shortenLink = async () => {
-        const res = await fetch(`https://api.shrtco.de/v2/shorten?url=${text}`)
+        const res = await fetch(` https://api.shrtco.de/v2/shorten?url=${text}`)
         const data = await res.json()
         console.log(data.result)
         setLinks(data.result)
