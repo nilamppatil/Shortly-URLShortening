@@ -43,8 +43,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Deployment URL -> https://nilamppatil.github.io/Shortly-URLShortening/
+- Live Site URL ->  https://dashing-empanada-5b488c.netlify.app
+  (Live Site URL is is part of group project where ME Nilam and Brian are working tohether in BootCamp project)
+-GitHub Repo : https://github.com/nilamppatil/Shortly-URLShortening
 
 ## My process
 
